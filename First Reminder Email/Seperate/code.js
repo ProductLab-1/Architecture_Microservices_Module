@@ -1,1 +1,0 @@
-console.log("this is also javascript, but now the code is in a seperate file")
