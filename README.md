@@ -16,7 +16,7 @@
 2. [The twelve-factor app](https://12factor.net/) 
     * This will run you through methodology used to build SaaS architecture. It will provide a strong foundation for the rest of the module, but there will be terminology / concepts you may not be familiar with. Google is your friend. For example: they'll take about "daemons." Don't breeze over it, look it up! 
 
-3. [Domain Driven Design](https://swagger.io/docs/specification/2-0/what-is-swagger/)
+3. [Domain Driven Design](https://www.youtube.com/watch?v=4rhzdZIDX_k)
     * There is an argument that Domain Driven Design is at its root all about making it easier for Developers and Business to coordinate. Thats part of the job description of a PM, so definitely pay attention. 
 
 4. [Event Driven Architecture](https://solace.com/what-is-event-driven-architecture/)
